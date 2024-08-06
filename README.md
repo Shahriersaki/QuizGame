@@ -26,7 +26,7 @@ git clone https://github.com/Shahriersaki/QuizGame.git
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have suggestions for improvements, please [open an issue](https://github.com/Shahriersaki/QuizGame/issues) or [create a pull request](https://github.com/yourusername/QuizGame/pulls).
+Contributions are welcome! If you find a bug or have suggestions for improvements, please [open an issue](https://github.com/Shahriersaki/QuizGame/issues) or [create a pull request](https://github.com/Shahriersaki/QuizGame/pulls).
 
 ## License
 
